@@ -1,0 +1,9 @@
+=========================================
+git init
+git add .
+git commit -m "frist commit"
+git branch -M main
+git remote add origin (link ssh github)
+git push -u origin main
+
+=========================================
